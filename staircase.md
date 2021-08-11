@@ -32,5 +32,5 @@ A single integer, `n`, denoting the size of the staircase.
 
 ##Constraints
 
-### ```0 < n <= 100```
+```0 < n <= 100```
 
