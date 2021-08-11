@@ -3,6 +3,8 @@
 This repo contains my solution to the hacker rank challenges I have solved. 
 You can submit a PR that highlights a different approach to solving.
 
+The solutions will be updated daily and is for personal learning.
+
 Each problem has an information file and the solution file 
 e.g `staircase.md` and `staircase.php`
 
